@@ -11,4 +11,4 @@ public class Main {
 }
 
 // OK, I will add `Adder` and s34536 will add `Subtractor`.
-// birde deyisiklik budefe komptan- browsere
+// birde deyisiklik budefe komptan- browsere deyek
